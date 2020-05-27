@@ -1,0 +1,16 @@
+.primaryNavigation {
+	margin: 0;
+	padding: 0;
+	display: flex;
+	list-style: none;
+	width: 50%;
+	margin: 0 auto;
+	justify-content: space-between;
+	font-family: "Metal Mania", serif;
+	font-size: 170%;
+}
+
+.primaryNavigation__link {
+	color: inherit;
+	text-decoration: none;
+}

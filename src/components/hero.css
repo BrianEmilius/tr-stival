@@ -1,0 +1,13 @@
+.hero {
+	background-color: black;
+	color: hsl(0, 0%, 95%);
+	height: 70vh;
+	text-align: center;
+	background-image: url('/Bg-header.jpg');
+}
+
+.brand img {
+	margin-top: 3em;
+	height: 400px;
+	width: auto;
+}

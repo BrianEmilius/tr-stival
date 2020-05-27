@@ -1,0 +1,17 @@
+.counter {
+	background-color: #940303;
+	display: flex;
+	width: 300px;
+	justify-content: space-between;
+	padding: .5em 1em;
+	position: relative;
+	left: 50%;
+	bottom: -70px;
+	margin-left: -150px;
+}
+
+.counter__time {
+	font-family: "Metal Mania";
+	display: block;
+	font-size: 200%;
+}
