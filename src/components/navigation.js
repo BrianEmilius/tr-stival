@@ -19,6 +19,9 @@ export default function Navigation() {
 					<Link to="/merch" className="primaryNavigation__link">Merch</Link>
 				</li>
 				<li>
+					<Link to="/login" className="primaryNavigation__link">Login</Link>
+				</li>
+				<li>
 					<Link to="/sportssnaps" className="primaryNavigation__link">Sportssnaps</Link>
 				</li>
 			</ul>

@@ -5,8 +5,13 @@ exports.handler = function(event, context, callback) {
 		});
 	}
 
+	let username = event.body.username;
+	let password = event.body.password;
+
+	console.log(username, password);
+
 	callback(null, {
 		statusCode: 200,
-		body: "Hello"
+		body: event.body
 	});
 }
