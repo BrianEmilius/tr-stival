@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import "./counter.css";
 
 function calculateTimeLeft() {
-	let difference = +new Date(2020, 7, 6, 17, 0, 0) - +new Date();
+	let difference = +new Date(2021, 7, 6, 17, 0, 0) - +new Date();
 	let timeLeft = {};
 
 	if (difference > 0) {

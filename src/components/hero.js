@@ -8,7 +8,7 @@ export default function Hero() {
 		<header className="hero">
 			<Navigation />
 			<h1 className="brand">
-				<img src="./Troestival_logo_forside.svg" alt="Trøstival 2020 - 6. - 9. august" />
+				<img src="./Troestival_logo_forside.svg" alt="Trøstival 2021 - 6. - 9. august" />
 			</h1>
 			<Counter />
 		</header>
